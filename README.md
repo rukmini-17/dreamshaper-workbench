@@ -3,7 +3,7 @@
 **A real-time generative prototyping tool exploring the trade-offs between inference latency and high-fidelity image synthesis.**
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/rukmininazre/dreamshaper-workbench)
-*(Click above to try the live demo running on CPU)*
+(Click to try the live demo running on CPU)
 
 ---
 
@@ -22,13 +22,13 @@ By distilling the standard Stable Diffusion inference process from 50 steps down
 ## 📸 Performance & Visuals
 
 ### 1. The "Design Workbench" (Style Comparison)
-*Demonstrating the ability to rapidly explore aesthetic variations of a single concept—critical for speeding up the ideation phase in professional workflows.*
+Demonstrating the ability to rapidly explore aesthetic variations of a single concept; critical for speeding up the ideation phase in professional workflows.
 
 ![Floating Island Style Grid](dreamshaperall.png)
 *Prompt: "Magical floating island in a light blue sky..." | Time: 7.6s (Total for 5 images)*
 
 ### 2. High-Fidelity Texture Generation
-*Proving that speed does not compromise quality. The model successfully renders complex textures (frosting, light reflection) even at low step counts.*
+Proving that speed does not compromise quality. The model successfully renders complex textures (frosting, light reflection) even at low step counts.
 
 ![Single Cupcake Render](dreamshaper-single.png)
 *Prompt: "A cupcake with lemon frosting" | Time: 1.28s | Steps: 6*
