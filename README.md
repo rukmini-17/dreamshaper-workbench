@@ -24,13 +24,13 @@ By distilling the standard Stable Diffusion inference process from 50 steps down
 ### 1. The "Design Workbench" (Style Comparison)
 *Demonstrating the ability to rapidly explore aesthetic variations of a single concept—critical for speeding up the ideation phase in professional workflows.*
 
-![Floating Island Style Grid](dreamshaperall.jpg)
+![Floating Island Style Grid](dreamshaperall.png)
 *Prompt: "Magical floating island in a light blue sky..." | Time: 7.6s (Total for 5 images)*
 
 ### 2. High-Fidelity Texture Generation
 *Proving that speed does not compromise quality. The model successfully renders complex textures (frosting, light reflection) even at low step counts.*
 
-![Single Cupcake Render](dreamshaper-single.jpg)
+![Single Cupcake Render](dreamshaper-single.png)
 *Prompt: "A cupcake with lemon frosting" | Time: 1.28s | Steps: 6*
 
 ---
